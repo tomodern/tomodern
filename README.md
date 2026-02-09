@@ -73,7 +73,7 @@ I'm a passionate developer who loves modern software development. I enjoy learni
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomonori-kihara-444624202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomonori-kihara/)
 
 **Feel free to reach out — happy to chat or collaborate!**
 
