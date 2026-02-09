@@ -1,4 +1,4 @@
-# Hello! 👋 I'm tomodern
+# Hello! 👋 I'm Tomonori Kihara
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Software+Developer;Creative+Programmer;Tech+Enthusiast" alt="Typing SVG" />
@@ -60,12 +60,6 @@ I'm a passionate developer who loves modern software development. I enjoy learni
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tomodern&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomodern&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🎯 Current Goals
